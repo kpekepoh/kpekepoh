@@ -5,12 +5,12 @@ I am a Team Lead Laravel PHP Developer <img src="https://media.giphy.com/media/W
 
 
 <p align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazIzeHBnOTFxaTlxMHY0MG83aWdzMnFnMnNpempybHc1eXR4NW5nZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="500" height="375"  /></p>
-
+---
 - 🎮 I am passionate about games, design, coffee and coding
 - 🔧 I am responsible in completing tasks.
 - 🌱 I like to learn open source solutions, refine them and use them in my projects
 - 👨‍🔧 I'm also into DevOps.
-
+---
 ### 🛠  Languages and Tools :
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -32,11 +32,10 @@ I am a Team Lead Laravel PHP Developer <img src="https://media.giphy.com/media/W
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 In short: Backend Developer + DevOps
-
+---
 ### 📊 GitHub Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpekepoh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
+---
 ### 📫 How to reach me :
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kpekepoh)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filatov-vladislav)
