@@ -1,4 +1,4 @@
-# Привет! 👋
+# Hi! 👋
 
 ### 👨‍💻 About Me :
 I am a Team Lead Laravel PHP Developer from Ukraine 🇺🇦.
@@ -31,8 +31,8 @@ I am a Team Lead Laravel PHP Developer from Ukraine 🇺🇦.
 In short: Backend Developer + DevOps
 
 ### 📊 GitHub Stats :
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kpekepoh&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpekepoh&layout=compact&theme=radical)
 
 ### 📫 How to reach me :
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourtelegram)
